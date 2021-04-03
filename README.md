@@ -1,5 +1,5 @@
 
-![Grafana Ekran Görüntüsü](https://github.com/ynsemrearslan/Grafana-Kafka-Influxdb-Node.js/blob/main/grafana.jpg?raw=true)
+![Grafana Ekran Görüntüsü](https://github.com/ynsemrearslan/Node.js-Flask-ve-HaProxy/blob/main/ss.gif?raw=true)
 
 #  Node.js Flask ve HaProxy
 
