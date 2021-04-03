@@ -1,0 +1,18 @@
+version:  "3"
+services: 
+  flask:
+    build: ./Flask
+    container_name: flask-server
+    ports: 
+      - "4444:4444"
+  node:
+    build: ./NodeJs
+    container_name: node-server
+    ports: 
+      - "5555:5555"
+  haproxy:
+    build: ./haproxy
+    container_name: haproxy
+    ports: 
+      - "8888:8888" 
+      
