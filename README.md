@@ -10,7 +10,7 @@ Kartaca Çekirdekten Yetişenler Programı Ürün ve Servis Yönetimi Bölümü 
 ```sh
 docker-compose up --build
 ```
-
+## Test
 ```sh
 curl localhost:4444/staj
 ```
