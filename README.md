@@ -10,3 +10,16 @@ Kartaca Çekirdekten Yetişenler Programı Ürün ve Servis Yönetimi Bölümü 
 ```sh
 docker-compose up --build
 ```
+
+```sh
+curl localhost:4444/staj
+```
+```sh
+curl localhost:5555/staj
+```
+```sh
+curl localhost:8888/flask
+```
+```sh
+curl localhost:8888/nodejs
+```
